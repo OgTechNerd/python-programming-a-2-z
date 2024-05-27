@@ -2,7 +2,7 @@
 
 ###
 <p align="center">
-  <img src="img_icon.jpg" alt="Size Limit CLI" width="738">
+  <img src="img_icon.jpg" alt="Size Limit CLI" width="250">
 </p>
 <p align="left">This was an honest endeavour to consolidate all my Python learning experience into this repository. The following are the topics : 
   <ol>
