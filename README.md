@@ -1,7 +1,7 @@
 <h1 align="left">Python A-2-Z</h1>
 
 ###
-<div align="center">
+<div align="left">
   <img src="img_icon.jpg" alt="Avatar" width="400" height="400">
 </div>
 <p align="left">This was an honest endeavour to consolidate all my Python learning experience into this repository. The following are the topics : 
