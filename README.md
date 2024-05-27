@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">This was an honest endeavour to consolidate all my Python learning experience into this repository. The following are the topics .<br> 1.  Data  Structure<br> 2.  Generators  & Decorators<br> 3.  Object Oriented Programming<br> 4.  Data Science Fundamentals <br><br>etc.</p>
+<p align="left">This was an honest endeavour to consolidate all my Python learning experience into this repository. The following are the topics : 
+  <ol>
+  <li>Object Oriented Programming</li>
+  <li>Generators and Decorators</li>
+  <li>Data Structure </li>
+  <li>Machine Learning Algorithms  </li>
+</ol></p>
 
 ###
 
