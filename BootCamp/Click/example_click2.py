@@ -18,3 +18,4 @@ def calculateWeekends(days, months, years):
 
 if __name__ == '__main__':
     calculateWeekends()
+## Usage python3  example_click2.py --days 365  --months 0 --years 0 ##
