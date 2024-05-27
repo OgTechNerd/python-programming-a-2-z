@@ -1,7 +1,9 @@
 <h1 align="left">Python A-2-Z</h1>
 
 ###
-
+<p align="center">
+  <img src="img_icon.jpg" alt="Size Limit CLI" width="738">
+</p>
 <p align="left">This was an honest endeavour to consolidate all my Python learning experience into this repository. The following are the topics : 
   <ol>
   <li>Object Oriented Programming</li>
