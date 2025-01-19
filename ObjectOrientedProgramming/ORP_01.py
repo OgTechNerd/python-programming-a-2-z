@@ -42,7 +42,7 @@ class Employee():
     def retire():
         pass
 
-"""his time, we’ll define a subclass of the prior section’s Second Class that implements three specially  attributes that Python will call automat-ically:
+"""This time, we’ll define a subclass of the prior section’s Second Class that implements three specially  attributes that Python will call automat-ically:
 • __init__ is run when a new instance object is created: self is the new object.1
 • __add__ is run when a ThirdClass instance appears in a + expression.
 • __str__ is run when an object is printed (technically, when it’s converted to its
